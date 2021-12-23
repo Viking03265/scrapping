@@ -1,0 +1,16 @@
+{
+  "name": "scrap_realtor",
+  "version": "1.0.0",
+  "description": "scrapping real estates by zipcode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test"
+  },
+  "author": "Vitalii K.",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.2",
+    "vo": "^4.0.2"
+  }
+}

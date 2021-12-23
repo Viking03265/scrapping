@@ -1,0 +1,99 @@
+{
+    "book_binding-options": [
+        {
+            "option": "Top Glued Edge"
+        },
+        {
+            "option": "Left Glued Edge"
+        }
+    ],
+    "colors-options": [
+        {
+            "option": "Colour Both Sides"
+        },
+        {
+            "option": "Colour Front Side Only"
+        },
+        {
+            "option": "Colour Both Sides"
+        },
+        {
+            "option": "Colour Front Side Only"
+        }
+    ],
+    "finishing-options": [
+        {
+            "option": "none"
+        },
+        {
+            "option": "Magnetic Strip on the Back"
+        },
+        {
+            "option": "3 Hole Drill on Left Edge"
+        }
+    ],
+    "format-options": [
+        {
+            "option": "3.5 x 8.5 Portrait"
+        },
+        {
+            "option": "4.25 x 5.5 Portrait"
+        },
+        {
+            "option": "5.5 x 4.25 Landscape"
+        },
+        {
+            "option": "5.5 x 8.5 Portrait"
+        },
+        {
+            "option": "8.5 x 5.5 Landscape"
+        },
+        {
+            "option": "8.5 x 11 Portrait"
+        },
+        {
+            "option": "11 x 8.5 Landscape"
+        },
+        {
+            "option": "4 x 4 Square"
+        }
+    ],
+    "packaging_inputs-options": [
+        {
+            "option": "None"
+        }
+    ],
+    "pages-options": [
+        {
+            "option": "25 Sheets Per Pad Printed One Side"
+        },
+        {
+            "option": "50 Sheets Per Pad Printed One Side"
+        },
+        {
+            "option": "25 Sheets Per Pad Printed Two Sides"
+        },
+        {
+            "option": "50 Sheets Per Pad Printed Two Sides"
+        }
+    ],
+    "paper-options": [
+        {
+            "option": "50 lb. Uncoated Text"
+        },
+        {
+            "option": "60 lb. Uncoated Text"
+        },
+        {
+            "option": "70 lb. Uncoated Text"
+        }
+    ],
+    "refinement-options": [
+        {
+            "option": "none"
+        },
+        {
+            "option": "Numbering in Red"
+        }
+    ]
+}

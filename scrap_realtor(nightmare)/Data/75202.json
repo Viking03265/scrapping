@@ -1,0 +1,138 @@
+[
+    {
+        "acrelot": "",
+        "address": "509 Elm St Apt 502,Dallas, TX 75202\n",
+        "baths": "1.5",
+        "beds": "1",
+        "price": "$285,000",
+        "sqft": "1,487"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 508,Dallas, TX 75202\n",
+        "baths": "2",
+        "beds": "2",
+        "price": "$364,900",
+        "sqft": "1,563"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 1502,Dallas, TX 75202\n",
+        "baths": "1.5",
+        "beds": "1",
+        "price": "$229,900",
+        "sqft": "660"
+    },
+    {
+        "acrelot": "0.98",
+        "address": "1122 Jackson St Apt 618,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$264,500",
+        "sqft": "1,156"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 1407,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$254,000",
+        "sqft": "880"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 2607,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$279,000",
+        "sqft": "880"
+    },
+    {
+        "acrelot": "0.98",
+        "address": "1122 Jackson St Apt 1013,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "2",
+        "price": "$308,000",
+        "sqft": "1,168"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 1709,Dallas, TX 75202\n",
+        "baths": "2",
+        "beds": "2",
+        "price": "$375,000",
+        "sqft": "1,379"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 908,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$249,999",
+        "sqft": "880"
+    },
+    {
+        "acrelot": "",
+        "address": "1200 Main St Apt 902,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$239,000",
+        "sqft": "660"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 1108,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$265,900",
+        "sqft": "880"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 1001,Dallas, TX 75202\n",
+        "baths": "2.5",
+        "beds": "2",
+        "price": "$399,000",
+        "sqft": "1,551"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 703,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$240,000",
+        "sqft": "757"
+    },
+    {
+        "acrelot": "0.98",
+        "address": "1122 Jackson St Apt 707,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$350,000",
+        "sqft": "1,391"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 1106,Dallas, TX 75202\n",
+        "baths": "2",
+        "beds": "2",
+        "price": "$440,000",
+        "sqft": "1,379"
+    },
+    {
+        "acrelot": "0.98",
+        "address": "1122 Jackson St Apt 718,Dallas, TX 75202\n",
+        "baths": "1",
+        "beds": "1",
+        "price": "$279,900",
+        "sqft": "1,156"
+    },
+    {
+        "acrelot": "1.03",
+        "address": "1200 Main St Apt 401,Dallas, TX 75202\n",
+        "baths": "2.5",
+        "beds": "2",
+        "price": "$419,900",
+        "sqft": "1,642"
+    }
+]
